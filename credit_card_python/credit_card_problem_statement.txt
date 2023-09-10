@@ -1,0 +1,60 @@
+You will prepare a project proposal detailing the questions we are wanting to
+answer. The initial hypotheses about the data relationships and the approach you
+will take to get your answers.
+
+Proposal is just a plan.
+
+End goal is important
+
+Here you have to make some assumptions based on the questions you want to address
+based on the DA track.
+
+In DA track please aim to identify patterns in the data. Data analysis approach
+
+1.What approach are you going to take in order to prove or disprove your
+hypothesis?
+
+2.Please justify your data analysis approach.
+
+3.Identify important patterns in your data using the EDA approach to justify your
+findings.
+Utilize exploratory data analysis approaches to predict credit card pattern based
+on customer information.
+Features name: (Credit_Card.csv)
+
+Ind_ID: Client ID
+Gender: Gender information
+Car_owner: Having car or not
+Propert_owner: Having property or not
+Children: Count of children
+Annual_income: Annual income
+Type_Income: Income type
+Education: Education level
+Marital_status: Marital_status
+Housing_type: Living style
+Birthday_count: Use backward count from current day (0), -1 means yesterday.
+Employed_days: Start date of employment. Use backward count from current day (0).
+Positive value means, individual is currently unemployed.
+Mobile_phone: Any mobile phone
+Work_phone: Any work phone
+Phone: Any phone number
+EMAIL_ID: Any email ID
+Type_Occupation: Occupation
+Family_Members: Family size
+
+Use MySQL to perform the below queries.
+Label: 0 is application approved and 1 is application rejected.
+1.Group the customers based on their income type and find the average of their
+annual income.
+2.Find the number of female owners of cars and property.
+3.Find the number of male customers who are staying with their families.
+4.Please list the top five people having the highest income.
+5.What is the highest education level and what is the total count?
+6.How many married people are having bad credit?
+7.Between married males and females, who is having more bad credit? 
+
+
+
+
+
+

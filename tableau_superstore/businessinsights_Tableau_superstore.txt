@@ -1,0 +1,12 @@
+Business Insights :- 
+
+The customer retention of the superstore is as high as 99.73% which shows that the customer satisfaction for the product is very high. The higher the customer retention the higher is the chance of the growth of the business.The majority of the number of orders/customers lies between 5 and 9. The major area of concern is even after the growth of profit in the year 2019 the year over year growth in 2019 is less compared to 2018 year over year growth.
+
+To increase the profit year over year we have to :-
+
+a) Increase the number of sales
+
+b) increase the product price 
+
+c) add new customers
+

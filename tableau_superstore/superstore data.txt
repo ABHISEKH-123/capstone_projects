@@ -1,0 +1,32 @@
+
+This project is for visualizing sales figures for Superstore across different states of United States of America. 
+It is built from Excel data files and provides a comprehensive view of the scale and scope of Superstore's sales. 
+It provides valuable insights into the performance of different categories and sub-categories of products listed on Superstore over a period of time. 
+It also encompasses a wide range of metrics, including sales revenue,units sold,cost price,profit and profit margin. 
+The data has been examined on a Yearly basis and segmented by geographical regions and product attributes. 
+It can be further extended to support varying time intervals and more categories and sub-categories.
+
+What is profit margin?
+
+The profit margin is the ratio of profit to sales revenue.
+
+What is customer retention ?
+
+Customer retention refers to the ability of a company or product to retain its customers over some specified period.
+ High customer retention means customers of the product or business tend to return to, 
+continue to buy or in some other way not defect to another product or business, or to non-use entirely. 
+
+What is Year over Year growth ?
+
+Year-over-year growth compares a company's recent financial performance with its numbers for the same month one year earlier.
+
+What is no. of orders per customer ?
+
+Orders per customer is a basic ecommerce metric, showing how many orders each customer places on average over their customer lifecycle. 
+It is important for ecommerce brands because it correlates with customer retention and satisfaction. 
+Clearly, the more orders people place, the more they like your products.
+
+What is B2B and B2C?
+
+B2B stands for 'business to business' while B2C is 'business to consumer'.
+B2B ecommerce utilises online platforms to sell products or services to other businesses. B2C ecommerce targets personal consumers.

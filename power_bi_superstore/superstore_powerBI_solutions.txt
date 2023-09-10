@@ -1,0 +1,47 @@
+Superstore data Business Problems and solutions
+
+Q1) Which sub-category has the highest profit ?
+
+A1) Copiers as a sub-category has the highest profit.
+
+Q2) Which year has the highest and the lowest profit ?
+
+A2) Year 2016 has the lowest profit and year 2019 has the highest profit.
+
+Q3) Which region has the highest sum of profit ?
+
+A3) West region has the highest sum of profit.
+
+Q4) Which segment has the highest sum of profit ?
+
+A4) Consumer by segment has the highest sum of profit.
+
+Q5) Which category has the highest sum of profit ?
+
+A5) Technology in category has the highest sum of profit.
+
+Q6) Apply what if parameter to calculate discount of 10% on sum of sales and which region has the highest sales?
+
+A6) The west region has the highest sum of sales - 0.65 millions after applying 10% discount through what if parameter.
+
+Q7) Apply line anomalies on sum of the sales and to find the years which had actual sales more than expected sales ?
+
+A7) The sum of actual sales is more than expected sales for the year 2017 and 2019.
+
+Q8) Compare the sales for the year 2018 and 2019.
+
+A8) The sales in the year 2019 is 20% more than 2018.
+
+Q9) Which state has the highest sales and which state has the lowest sales?
+
+A9) California has the highest sales and North Dakota has the lowest sales.
+
+Q10) Which sub-category has the highest sales and on which day ?
+
+A10) Phones in sub-category has the highest sales and the sales are highest on Tuesday.
+
+
+
+
+
+

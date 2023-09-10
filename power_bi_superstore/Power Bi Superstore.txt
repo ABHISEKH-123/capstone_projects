@@ -1,0 +1,30 @@
+This project is for visualizing sales figures for Superstore across different states of United States of America. 
+It is built from Excel data files and provides a comprehensive view of the scale and scope of Superstore's sales. 
+It provides valuable insights into the performance of different categories and sub-categories of products listed on Superstore over a period of time. 
+It also encompasses a wide range of metrics, including sales revenue,units sold,profit and profit margin. 
+The data has been examined on a Yearly basis and depicts profit in different shapes such as region , segment and category. 
+It can be further extended to support varying time intervals and more categories and sub-categories.
+
+
+Q) What is profit margin?
+
+A) The profit margin is the ratio of profit to sales revenue.
+
+Q) What is Year over Year growth ?
+
+A) Year-over-year growth compares a company's recent financial performance with its numbers for the same month one year earlier.
+
+Q) What is currency conversion ? 
+
+A) Currency Conversion. Currency conversion is the process that facilitates transactions where the issuer and acquirer use different currencies by exchanging one type of currency for another.
+
+Q) What is residual in linear regression ?
+
+A) A difference between the predicted regression value and the actual value is called residual.
+
+Q) What is dicounted sales ?
+
+A) A sales discount is a reduced price offered by a business on a product or service.
+
+
+

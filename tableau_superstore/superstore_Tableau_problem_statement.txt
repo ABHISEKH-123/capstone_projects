@@ -1,0 +1,67 @@
+Capstone project on superstore :-
+
+Problem statement :-
+
+A superstore represents an online E-commerce superstore which is located in United States of America. The superstore deals in category such as furniture,office suppliers and technology which is further divided into sub-categories. The management is unable to get accurate and up-to-date sales report,which is affecting the decision making process.
+
+To address this issue, the company has decided to implement a Business Intelligence(BI) tool that can help them manage and analyze their sales data effectively.They have shortlisted Tableau as the BI tool for this project.
+
+The goal of the capstone project is to design and implement a BI solution using Tableau that can help the company manage and analyze profit and sales data effectively.The solution should be able to:- 
+
+1. Import and Integrate the data into Tableau
+
+2. Clean and transform the data to make it ready for analysis.
+
+3.Build interactive dashboard and reports using Tableau that can help the sales team and management make sense of data.
+
+The solution should be user friendly and easy to use for the sales team and management. The project will be successful if it helps the company effectively manage and analyze their sales data and improve their decision making.
+
+a) Order_ID - The unique ID number of the products ordered.
+
+b) Order date - Date at which order was placed.
+
+c) Ship date - Date at whcih order was ordered.
+
+d) Ship mode - mode of deliverying orders.
+
+e) Customer_ID - Customer ID who have placed an order from superstore.
+
+f) Customer name - The names of the customers who have placed an order.
+
+g) Country - The country at which order is shipped.
+
+h) City - The city at which order is shipped.
+
+i) State - The state at which order is shipped.
+
+j) Postal code - The pincode where order is shipped.
+
+k) Region - Geographical location
+
+l) Product ID - The unique ID of product ordered.
+
+m) Category - The product which is ordered comed under different sections known category.
+
+n) sub-category - The product which is ordered comes under different sub-section known sub-category.
+
+o) Product name - Name of the different product ordered.
+
+p) Sales - Total revenue of different products.
+
+q) Quantity - Total quantity of different products ordered.
+
+r) Discount - Total discount on different products ordered.
+
+s) Profit - Total profit earned on different products ordered.
+
+   Superstore data business problems 
+
+Q1) Calculate the profit margin out of the total sales?
+Q2) Calculate the top 5 and bottom 5 customers by their profit?
+Q3) How many percent of the customers have repeated their purchase within 6 months?
+Q4) Which is the highest number of orders placed by distinct customers?
+Q5) What is the year over year growth of the profit ?
+Q6) Which state has the highest and lowest profit in sales?
+Q7) Create a bar graph comparing sub-category and sales and set minimum reference point as 100k sales a) > 100k – above target else below target . Find the sub-category lower than reference point.
+
+

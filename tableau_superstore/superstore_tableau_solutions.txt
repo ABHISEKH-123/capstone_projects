@@ -1,0 +1,20 @@
+   Superstore data business problems 
+
+Q1) Calculate the profit margin out of the total sales?
+Q2) Calculate the top 5 and bottom 5 customers by their profit?
+Q3) How many percent of the customers have repeated their purchase within 6 months?
+Q4) Which is the highest number of orders placed by distinct customers?
+Q5) What is the year over year growth of the profit ?
+Q6) Which state has the highest and lowest profit in sales?
+Q7) Create a bar graph comparing sub-category and sales and set minimum reference point as 100k sales a) > 100k – above target else below target . Find the sub-category lower than reference point.
+
+   Superstore data business solutions 
+
+A1) The profit margin over sales is 12.5%.
+A2) Top 5 customers (Tamara>Raymond>Chand>Lopez>Adrian)
+       Bottom 5 customers (Cindy<Grant<Luke<Roach<Henry)
+A3) 45.65% of the customers have repeated their purchase within 6 months.
+A4) The highest number of orders placed by the distinct customer is 5.
+A5) The year 2018 has the highest growth percentage of 32.74% .
+A6) The California has the highest profit and the Texas has the lowest profit.
+A7) Arts , Envelopes , Fasteners > Furnishing , Labels , Paper and Supplies have their sales lower than the reference point(100k).
