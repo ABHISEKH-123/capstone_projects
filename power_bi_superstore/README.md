@@ -106,13 +106,13 @@ The data for the following attributes will be analysed with the aim of generatin
 
 **A10)** Phones in sub-category has the highest sales and the sales are highest on Tuesday.  
 
-![Alt text](Superstore_pics/superstore_dashboard_1.PNG?raw=true "Title")
+![Alt text](Superstore_pics/Superstore_dashboard_1.PNG?raw=true "Title")
 
-![Alt text](Superstore_pics/superstore_dashboard_2.PNG?raw=true "Title")
+![Alt text](Superstore_pics/Superstore_dashboard_2.PNG?raw=true "Title")
 
-![Alt text](Superstore_pics/superstore_dashboard_3.PNG?raw=true "Title")
+![Alt text](Superstore_pics/Superstore_dashboard_3.PNG?raw=true "Title")
 
-![Alt text](Superstore_pics/superstore_dashboard_4.PNG?raw=true "Title")
+![Alt text](Superstore_pics/Superstore_dashboard_4.PNG?raw=true "Title")
 
 ## FAQ  
 
