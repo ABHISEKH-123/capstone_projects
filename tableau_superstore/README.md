@@ -68,24 +68,38 @@ The data for the following attributes will be analysed with the aim of generatin
 **Q1)**  Calculate the profit margin out of the total sales?  
 **A1)**  The profit margin over sales is 12.5%.  
 
+![Alt text](Superstore_pics/Profit.PNG?raw=true "Title")
+
 **Q2)**  Calculate the top 5 and bottom 5 customers by their profit?  
 **A2)**  Top 5 customers (Tamara>Raymond>Chand>Lopez>Adrian)
          Bottom 5 customers (Cindy<Grant<Luke<Roach<Henry).  
-         
+
+ ![Alt text](Superstore_pics/Top5_Bottom5.PNG?raw=true "Title")
+
 **Q3)**  How many percent of the customers have repeated their purchase within 6 months?  
 **A3)**  45.65% of the customers have repeated their purchase within 6 months.  
+
+![Alt text](Superstore_pics/repeat_customers.PNG?raw=true "Title")
 
 **Q4)**  Which is the highest number of orders placed by distinct customers?  
 **A4)**  The highest number of orders placed by the distinct customer is 5.  
 
+![Alt text](Superstore_pics/orders_by_customers.PNG?raw=true "Title")
+
 **Q5)**  What is the year over year growth of the profit?  
 **A5)**  The year 2018 has the highest growth percentage of 32.74% .  
+
+![Alt text](Superstore_pics/yoy.PNG?raw=true "Title")
 
 **Q6)**  Which state has the highest and lowest profit in sales?  
 **A6)**  The California has the highest profit and the Texas has the lowest profit.  
 
+![Alt text](Superstore_pics/States_highest_lowest.PNG?raw=true "Title")
+
 **Q7)**  Create a bar graph comparing sub-category and sales and set minimum reference point as 100k sales a)       > 100k – above target else below target . Find the sub-category lower than reference point.   
 **A7)**  Arts , Envelopes , Fasteners > Furnishing , Labels , Paper and Supplies have their sales lower than the reference point(100k).  
+
+![Alt text](Superstore_pics/Reference_point.PNG?raw=true "Title")
 
 ## FAQ  
 
@@ -112,4 +126,15 @@ Orders per customer is a basic ecommerce metric, showing how many orders each cu
 B2B stands for 'business to business' while B2C is 'business to consumer'.
 B2B ecommerce utilises online platforms to sell products or services to other businesses. B2C ecommerce targets personal consumers.  
 
+## Business Insights
+
+The customer retention of the superstore is as high as 99.73% which shows that the customer satisfaction for the product is very high. The higher the customer retention the higher is the chance of the growth of the business.The majority of the number of orders/customers lies between 5 and 9. The major area of concern is even after the growth of profit in the year 2019 the year over year growth in 2019 is less compared to 2018 year over year growth.
+
+To increase the profit year over year we have to :-
+
+1. Increase the number of sales
+
+2. increase the product price 
+
+3. add new customers
 
