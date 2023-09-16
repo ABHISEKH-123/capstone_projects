@@ -1,0 +1,20 @@
+Data analysis
+
+1)The annual income for higher education people is highest and lowest for lower
+secondary education. These shows eduaction and income are directly proportional to
+each others.
+
+2)The annual income is highest for Managers and lowest for IT staffs.
+
+3)The annual income is highest for people living in office apartment and lowest for
+people living in cooperative apartment.
+
+4)The annual income for not married people is highest and lowest for widow people.
+
+5)The number of people owning property is more than the people not owning property.
+
+6)The annual income of male is more compared to female.
+
+7)To understand the data we need to plot the data in relation to each other.
+
+8)
